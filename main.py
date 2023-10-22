@@ -5,3 +5,5 @@ def add_value_to_stack(stack_list):
 
 def addition(x, y):
     return x+y
+
+print(add_value_to_stack([1,2,3])
